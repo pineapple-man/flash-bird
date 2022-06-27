@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"flash-bird/objects"
+	"github.com/pineapple-man/flash-bird/objects"
 )
 
 func main() {
